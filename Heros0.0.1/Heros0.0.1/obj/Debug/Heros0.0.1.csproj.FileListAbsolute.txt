@@ -1,0 +1,8 @@
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\bin\Debug\Heros0.0.1.exe.config
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\bin\Debug\Heros0.0.1.exe
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\bin\Debug\Heros0.0.1.pdb
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\obj\Debug\Heros0.0.1.csproj.AssemblyReference.cache
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\obj\Debug\Heros0.0.1.csproj.SuggestedBindingRedirects.cache
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\obj\Debug\Heros0.0.1.csproj.CoreCompileInputs.cache
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\obj\Debug\Heros0.0.1.exe
+D:\backend\projects\EXoft_camp\EXoft_camp_Heros0.0.1\GemeHeros0.0.1\Heros0.0.1\Heros0.0.1\obj\Debug\Heros0.0.1.pdb
