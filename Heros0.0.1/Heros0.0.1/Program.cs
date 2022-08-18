@@ -10,6 +10,8 @@ namespace Heros0._0._1
     {
         static void Main(string[] args)
         {
+            SuperPowerGenerator superPowerGenerator = new SuperPowerGenerator();
+            Console.WriteLine(superPowerGenerator.Random());
         }
     }
 }
