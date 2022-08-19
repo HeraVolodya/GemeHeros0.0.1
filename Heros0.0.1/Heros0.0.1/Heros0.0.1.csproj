@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Elf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SuperPowerGenerator.cs" />
+    <Compile Include="Warior.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

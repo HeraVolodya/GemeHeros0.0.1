@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Heros0._0._1
 {
-    internal class Program
+    abstract class Warior
     {
-        static void Main(string[] args)
-        {
-
-        }
+        public abstract string Name { get; set; }
     }
 }
