@@ -8,7 +8,7 @@ namespace Heros0._0._1
 {
     public class SuperPowerGenerator
     {
-        public int Random()
+        public int SuperRandom()
         {
             Random rnd = new Random();
             int suoerPower = rnd.Next(5,10);

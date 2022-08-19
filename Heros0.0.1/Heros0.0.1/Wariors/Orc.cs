@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heros0._0._1
+namespace Heros0._0._1.Wariors
 {
-    internal class Program
+    internal class Orc
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
